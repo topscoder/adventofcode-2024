@@ -11,5 +11,6 @@ https://adventofcode.com/
 | Day | Task | Solution |
 |--|--|--|
 | Day 1: Historian Hysteria | [Task](https://adventofcode.com/2024/day/1) | [Solution](./day1/task1.py) |
-| Day 1: Part Two | [Task](https://adventofcode.com/2024/day/1#part2) | [Solution](./day1/task1-part2.py) |
+| Day 1: Part Two | [Task](https://adventofcode.com/2024/day/1#part2) | [Solution](./day1/task2.py) |
 | Day 2: Red-Nosed Reports | [Task](https://adventofcode.com/2024/day/2) | [Solution](./day2/task1.py) |
+| Day 2: Part Two | [Task](https://adventofcode.com/2024/day/2#part2) | [Solution](./day2/task2.py) |
